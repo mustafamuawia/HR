@@ -1,0 +1,1056 @@
+E:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_MS\Human Resources Management System\bin\Debug\Human Resources Management System.exe
+E:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_MS\Human Resources Management System\bin\Debug\Human Resources Management System.pdb
+E:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_MS\Human Resources Management System\obj\Debug\ResolveAssemblyReference.cache
+E:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_MS\Human Resources Management System\obj\Debug\HR_MS.frmMain.resources
+E:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_MS\Human Resources Management System\obj\Debug\HR_MS.Properties.Resources.resources
+E:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_MS\Human Resources Management System\obj\Debug\Human Resources Management System.csproj.GenerateResource.Cache
+E:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_MS\Human Resources Management System\obj\Debug\Human Resources Management System.exe
+E:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_MS\Human Resources Management System\obj\Debug\Human Resources Management System.pdb
+D:\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\bin\Debug\Human Resources Management System.exe.config
+D:\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\Human Resources Management System.exe
+D:\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\Human Resources Management System.pdb
+D:\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\ResolveAssemblyReference.cache
+D:\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.Adjest.resources
+D:\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.DialogPersonalPicureSource.resources
+D:\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.DialogQualificationDocScan.resources
+D:\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.frmDatabaseSettings.resources
+D:\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.frmEmployeeOfficialDocuments.resources
+D:\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.frmEmployeeQualifications.resources
+D:\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.frmHireEmployee.resources
+D:\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.frmMain.resources
+D:\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.frmScan.resources
+D:\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.Properties.Resources.resources
+D:\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\Human Resources Management System.csproj.GenerateResource.Cache
+D:\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\bin\Debug\Human Resources Management System.exe
+D:\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\bin\Debug\Human Resources Management System.pdb
+H:\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\bin\Debug\Human Resources Management System.exe.config
+H:\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\bin\Debug\Human Resources Management System.exe
+H:\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\bin\Debug\Human Resources Management System.pdb
+H:\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\ResolveAssemblyReference.cache
+H:\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.Adjest.resources
+H:\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.frmAddJob.resources
+H:\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.frmAddDepartment.resources
+H:\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.frmEditEmployeeFile.resources
+H:\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.DialogDrivingLicenceDocScan.resources
+H:\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.DialogNationalityDocScan.resources
+H:\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.DialogIdentityCardDocScan.resources
+H:\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.CustomMessageBox.resources
+H:\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.DialogExperienceDocsScan.resources
+H:\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.DialogNationalIdentificationDocScan.resources
+H:\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.DialogPersonalPicureSource.resources
+H:\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.DialogQualificationDocScan.resources
+H:\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.frmDatabaseSettings.resources
+H:\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.frmEmployeeExperiences.resources
+H:\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.frmEmployeeOfficialDocuments.resources
+H:\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.frmEmployeeQualifications.resources
+H:\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.frmHireEmployee.resources
+H:\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.frmMain.resources
+H:\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.frmScan.resources
+H:\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.Properties.Resources.resources
+H:\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\Human Resources Management System.csproj.GenerateResource.Cache
+H:\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\Human Resources Management System.exe
+H:\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\Human Resources Management System.pdb
+H:\Test HR_MS\Human Resources Management System\bin\Debug\Human Resources Management System.exe.config
+H:\Test HR_MS\Human Resources Management System\bin\Debug\Human Resources Management System.exe
+H:\Test HR_MS\Human Resources Management System\bin\Debug\Human Resources Management System.pdb
+H:\Test HR_MS\Human Resources Management System\obj\Debug\ResolveAssemblyReference.cache
+H:\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.Adjest.resources
+H:\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.frmAddJob.resources
+H:\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.frmAddDepartment.resources
+H:\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.frmEditEmployeeFile.resources
+H:\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.DialogDrivingLicenceDocScan.resources
+H:\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.DialogNationalityDocScan.resources
+H:\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.DialogIdentityCardDocScan.resources
+H:\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.CustomMessageBox.resources
+H:\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.DialogExperienceDocsScan.resources
+H:\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.DialogNationalIdentificationDocScan.resources
+H:\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.DialogPersonalPicureSource.resources
+H:\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.DialogQualificationDocScan.resources
+H:\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.frmDatabaseSettings.resources
+H:\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.frmEmployeeExperiences.resources
+H:\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.frmEmployeeOfficialDocuments.resources
+H:\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.frmEmployeeQualifications.resources
+H:\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.frmHireEmployee.resources
+H:\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.frmMain.resources
+H:\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.frmScan.resources
+H:\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.Properties.Resources.resources
+H:\Test HR_MS\Human Resources Management System\obj\Debug\Human Resources Management System.csproj.GenerateResource.Cache
+H:\Test HR_MS\Human Resources Management System\obj\Debug\Human Resources Management System.exe
+H:\Test HR_MS\Human Resources Management System\obj\Debug\Human Resources Management System.pdb
+E:\Business\Desktop\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\ResolveAssemblyReference.cache
+E:\Business\Desktop\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.Adjest.resources
+E:\Business\Desktop\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.frmAddJob.resources
+E:\Business\Desktop\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.frmAddDepartment.resources
+E:\Business\Desktop\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.frmEditEmployeeFile.resources
+E:\Business\Desktop\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.DialogDrivingLicenceDocScan.resources
+E:\Business\Desktop\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.DialogNationalityDocScan.resources
+E:\Business\Desktop\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.DialogIdentityCardDocScan.resources
+E:\Business\Desktop\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.CustomMessageBox.resources
+E:\Business\Desktop\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.DialogExperienceDocsScan.resources
+E:\Business\Desktop\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.DialogNationalIdentificationDocScan.resources
+E:\Business\Desktop\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.DialogPersonalPicureSource.resources
+E:\Business\Desktop\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.DialogQualificationDocScan.resources
+E:\Business\Desktop\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.frmDatabaseSettings.resources
+E:\Business\Desktop\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.frmEmployeeExperiences.resources
+E:\Business\Desktop\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.frmEmployeeOfficialDocuments.resources
+E:\Business\Desktop\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.frmEmployeeQualifications.resources
+E:\Business\Desktop\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.frmHireEmployee.resources
+E:\Business\Desktop\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.frmMain.resources
+E:\Business\Desktop\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.frmScan.resources
+E:\Business\Desktop\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.Properties.Resources.resources
+E:\Business\Desktop\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\Human Resources Management System.csproj.GenerateResource.Cache
+E:\Business\Desktop\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\bin\Debug\Human Resources Management System.exe.config
+E:\Business\Desktop\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\bin\Debug\Human Resources Management System.exe
+E:\Business\Desktop\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\bin\Debug\Human Resources Management System.pdb
+E:\Business\Desktop\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\Human Resources Management System.exe
+E:\Business\Desktop\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\Human Resources Management System.pdb
+E:\Business\Desktop\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.DialogtSearchedEmpsbyName.resources
+E:\Business\Desktop\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.frmEditEmployeeOfficialDocs.resources
+E:\Business\Desktop\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.frmEditDepartment.resources
+E:\Business\Desktop\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.frmEditJobs.resources
+E:\Business\Desktop\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.frmAllowancesManagement.resources
+G:\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\bin\Debug\Human Resources Management System.exe.config
+G:\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\Human Resources Management System.exe
+G:\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\Human Resources Management System.pdb
+G:\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\bin\Debug\Human Resources Management System.exe
+G:\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\bin\Debug\Human Resources Management System.pdb
+G:\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\ResolveAssemblyReference.cache
+G:\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.Adjest.resources
+G:\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.frmAllowancesManagement.resources
+G:\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.frmEditJobs.resources
+G:\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.frmEditDepartment.resources
+G:\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.frmEditEmployeeOfficialDocs.resources
+G:\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.DialogtSearchedEmpsbyName.resources
+G:\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.frmAddJob.resources
+G:\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.frmAddDepartment.resources
+G:\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.frmEditEmployeeFile.resources
+G:\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.DialogDrivingLicenceDocScan.resources
+G:\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.DialogNationalityDocScan.resources
+G:\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.DialogIdentityCardDocScan.resources
+G:\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.CustomMessageBox.resources
+G:\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.DialogExperienceDocsScan.resources
+G:\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.DialogNationalIdentificationDocScan.resources
+G:\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.DialogPersonalPicureSource.resources
+G:\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.DialogQualificationDocScan.resources
+G:\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.frmDatabaseSettings.resources
+G:\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.frmEmployeeExperiences.resources
+G:\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.frmEmployeeOfficialDocuments.resources
+G:\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.frmEmployeeQualifications.resources
+G:\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.frmHireEmployee.resources
+G:\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.frmMain.resources
+G:\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.frmScan.resources
+G:\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\HR_MS.Properties.Resources.resources
+G:\AbbasherHotel\Human Resources Management System\Test HR_MS\Human Resources Management System\obj\Debug\Human Resources Management System.csproj.GenerateResource.Cache
+G:\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\bin\Debug\Human Resources Management System.exe.config
+G:\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\Human Resources Management System.exe
+G:\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\Human Resources Management System.pdb
+G:\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\bin\Debug\Human Resources Management System.exe
+G:\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\bin\Debug\Human Resources Management System.pdb
+G:\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\ResolveAssemblyReference.cache
+G:\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.Adjest.resources
+G:\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmAllowancesManagement.resources
+G:\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmEditJobs.resources
+G:\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmEditDepartment.resources
+G:\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmEditEmployeeOfficialDocs.resources
+G:\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.DialogtSearchedEmpsbyName.resources
+G:\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmAddJob.resources
+G:\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmAddDepartment.resources
+G:\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmEditEmployeeFile.resources
+G:\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.DialogDrivingLicenceDocScan.resources
+G:\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.DialogNationalityDocScan.resources
+G:\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.DialogIdentityCardDocScan.resources
+G:\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.CustomMessageBox.resources
+G:\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.DialogExperienceDocsScan.resources
+G:\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.DialogNationalIdentificationDocScan.resources
+G:\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.DialogPersonalPicureSource.resources
+G:\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.DialogQualificationDocScan.resources
+G:\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmDatabaseSettings.resources
+G:\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmEmployeeExperiences.resources
+G:\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmEmployeeOfficialDocuments.resources
+G:\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmEmployeeQualifications.resources
+G:\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmHireEmployee.resources
+G:\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmMain.resources
+G:\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmScan.resources
+G:\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.Properties.Resources.resources
+G:\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\Human Resources Management System.csproj.GenerateResource.Cache
+G:\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmEmployeesDeductions.resources
+G:\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmEditEmployeeAllowances.resources
+G:\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmEmployeesAllowances.resources
+G:\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmPrintSalaries.resources
+G:\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmDeleteEmployee.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\bin\Debug\Human Resources Management System.exe.config
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\Human Resources Management System.exe
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\Human Resources Management System.pdb
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\bin\Debug\Human Resources Management System.exe
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\bin\Debug\Human Resources Management System.pdb
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\ResolveAssemblyReference.cache
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.Adjest.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmDeleteEmployee.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmEmployeesDeductions.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmAllowancesManagement.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmEditEmployeeAllowances.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmEditJobs.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmEditDepartment.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmEditEmployeeOfficialDocs.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.DialogtSearchedEmpsbyName.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmAddJob.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmAddDepartment.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmEditEmployeeFile.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.DialogDrivingLicenceDocScan.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.DialogNationalityDocScan.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.DialogIdentityCardDocScan.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.CustomMessageBox.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.DialogExperienceDocsScan.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.DialogNationalIdentificationDocScan.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.DialogPersonalPicureSource.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.DialogQualificationDocScan.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmDatabaseSettings.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmEmployeeExperiences.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmEmployeeOfficialDocuments.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmEmployeeQualifications.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmEmployeesAllowances.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmHireEmployee.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmMain.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmPrintSalaries.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmScan.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.Properties.Resources.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\Human Resources Management System.csproj.GenerateResource.Cache
+D:\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\bin\Debug\Human Resources Management System.exe.config
+D:\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\Human Resources Management System.exe
+D:\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\Human Resources Management System.pdb
+D:\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\bin\Debug\Human Resources Management System.exe
+D:\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\bin\Debug\Human Resources Management System.pdb
+D:\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\ResolveAssemblyReference.cache
+D:\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.Adjest.resources
+D:\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmDeleteEmployee.resources
+D:\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmEmployeesDeductions.resources
+D:\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmAllowancesManagement.resources
+D:\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmEditEmployeeAllowances.resources
+D:\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmEditJobs.resources
+D:\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmEditDepartment.resources
+D:\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmEditEmployeeOfficialDocs.resources
+D:\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.DialogtSearchedEmpsbyName.resources
+D:\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmAddJob.resources
+D:\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmAddDepartment.resources
+D:\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmEditEmployeeFile.resources
+D:\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.DialogDrivingLicenceDocScan.resources
+D:\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.DialogNationalityDocScan.resources
+D:\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.DialogIdentityCardDocScan.resources
+D:\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.CustomMessageBox.resources
+D:\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.DialogExperienceDocsScan.resources
+D:\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.DialogNationalIdentificationDocScan.resources
+D:\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.DialogPersonalPicureSource.resources
+D:\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.DialogQualificationDocScan.resources
+D:\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmDatabaseSettings.resources
+D:\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmEmployeeExperiences.resources
+D:\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmEmployeeOfficialDocuments.resources
+D:\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmEmployeeQualifications.resources
+D:\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmEmployeesAllowances.resources
+D:\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmHireEmployee.resources
+D:\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmMain.resources
+D:\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmPrintSalaries.resources
+D:\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmScan.resources
+D:\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.Properties.Resources.resources
+D:\AbbasherHotel\Human Resources Management System\Test HR_MS - Copy\Human Resources Management System\obj\Debug\Human Resources Management System.csproj.GenerateResource.Cache
+D:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\bin\Debug\Human Resources Management System.exe.config
+D:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\Human Resources Management System.exe
+D:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\Human Resources Management System.pdb
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\bin\Debug\Human Resources Management System.exe.config
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\Human Resources Management System.exe
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\Human Resources Management System.pdb
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\bin\Debug\Human Resources Management System.exe
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\bin\Debug\Human Resources Management System.pdb
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\ResolveAssemblyReference.cache
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.Adjest.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmAddDialyWorkers.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmDeleteEmployee.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmEmployeesDeductions.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmAllowancesManagement.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmEditEmployeeAllowances.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmEditJobs.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmEditDepartment.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmEditEmployeeOfficialDocs.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.DialogtSearchedEmpsbyName.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmAddJob.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmAddDepartment.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmEditEmployeeFile.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.DialogDrivingLicenceDocScan.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.DialogNationalityDocScan.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.DialogIdentityCardDocScan.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.CustomMessageBox.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.DialogExperienceDocsScan.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.DialogNationalIdentificationDocScan.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.DialogPersonalPicureSource.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.DialogQualificationDocScan.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmDatabaseSettings.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmEmployeeExperiences.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmEmployeeOfficialDocuments.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmEmployeeQualifications.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmEmployeesAllowances.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmHireEmployee.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmMain.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmPrintSalaries.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmScan.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.Properties.Resources.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\Human Resources Management System.csproj.GenerateResource.Cache
+D:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\bin\Debug\Human Resources Management System.exe
+D:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\bin\Debug\Human Resources Management System.pdb
+D:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\ResolveAssemblyReference.cache
+D:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.Adjest.resources
+D:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmDialyWorkersAllowances.resources
+D:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmAddDialyWorkers.resources
+D:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmDeleteEmployee.resources
+D:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmEmployeesDeductions.resources
+D:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmAllowancesManagement.resources
+D:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmEditEmployeeAllowances.resources
+D:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmEditJobs.resources
+D:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmEditDepartment.resources
+D:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmEditEmployeeOfficialDocs.resources
+D:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.DialogtSearchedEmpsbyName.resources
+D:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmAddJob.resources
+D:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmAddDepartment.resources
+D:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmEditEmployeeFile.resources
+D:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.DialogDrivingLicenceDocScan.resources
+D:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.DialogNationalityDocScan.resources
+D:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.DialogIdentityCardDocScan.resources
+D:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.CustomMessageBox.resources
+D:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.DialogExperienceDocsScan.resources
+D:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.DialogNationalIdentificationDocScan.resources
+D:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.DialogPersonalPicureSource.resources
+D:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.DialogQualificationDocScan.resources
+D:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmDatabaseSettings.resources
+D:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmEmployeeExperiences.resources
+D:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmEmployeeOfficialDocuments.resources
+D:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmEmployeeQualifications.resources
+D:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmEmployeesAllowances.resources
+D:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmHireEmployee.resources
+D:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmMain.resources
+D:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmPrintSalaries.resources
+D:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmScan.resources
+D:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.Properties.Resources.resources
+D:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\Human Resources Management System.csproj.GenerateResource.Cache
+G:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\bin\Debug\Human Resources Management System.exe.config
+G:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\Human Resources Management System.exe
+G:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\Human Resources Management System.pdb
+G:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\bin\Debug\Human Resources Management System.exe
+G:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\bin\Debug\Human Resources Management System.pdb
+G:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\ResolveAssemblyReference.cache
+G:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.Adjest.resources
+G:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmDialyWorkersAllowances.resources
+G:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmAddDialyWorkers.resources
+G:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmDeleteEmployee.resources
+G:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmEmployeesDeductions.resources
+G:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmAllowancesManagement.resources
+G:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmEditEmployeeAllowances.resources
+G:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmEditJobs.resources
+G:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmEditDepartment.resources
+G:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmEditEmployeeOfficialDocs.resources
+G:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.DialogtSearchedEmpsbyName.resources
+G:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmAddJob.resources
+G:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmAddDepartment.resources
+G:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmEditEmployeeFile.resources
+G:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.DialogDrivingLicenceDocScan.resources
+G:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.DialogNationalityDocScan.resources
+G:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.DialogIdentityCardDocScan.resources
+G:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.CustomMessageBox.resources
+G:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.DialogExperienceDocsScan.resources
+G:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.DialogNationalIdentificationDocScan.resources
+G:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.DialogPersonalPicureSource.resources
+G:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.DialogQualificationDocScan.resources
+G:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmDatabaseSettings.resources
+G:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmEmployeeExperiences.resources
+G:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmEmployeeOfficialDocuments.resources
+G:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmEmployeeQualifications.resources
+G:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmEmployeesAllowances.resources
+G:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmHireEmployee.resources
+G:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmMain.resources
+G:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmPrintSalaries.resources
+G:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmScan.resources
+G:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.Properties.Resources.resources
+G:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\Human Resources Management System.csproj.GenerateResource.Cache
+G:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmPrintDialyworkersSalaries.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmPrintDialyworkersSalaries.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmDialyWorkersAllowances.resources
+D:\AbbasherHotel\Human Resources Management System\Copy of Test HR_MS - Copy\Human Resources Management System\obj\Debug\HR_MS.frmPrintDialyworkersSalaries.resources
+G:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\bin\Debug\Human Resources Management System.exe.config
+G:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\Human Resources Management System.exe
+G:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\Human Resources Management System.pdb
+G:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\bin\Debug\Human Resources Management System.exe
+G:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\bin\Debug\Human Resources Management System.pdb
+G:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\ResolveAssemblyReference.cache
+G:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.Adjest.resources
+G:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmPrintDialyworkersSalaries.resources
+G:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmDialyWorkersAllowances.resources
+G:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmAddDialyWorkers.resources
+G:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmDeleteEmployee.resources
+G:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEditJobs.resources
+G:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEditDepartment.resources
+G:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEditEmployeeOfficialDocs.resources
+G:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogtSearchedEmpsbyName.resources
+G:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmAddJob.resources
+G:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmAddDepartment.resources
+G:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEditEmployeeFile.resources
+G:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogDrivingLicenceDocScan.resources
+G:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogNationalityDocScan.resources
+G:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogIdentityCardDocScan.resources
+G:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.CustomMessageBox.resources
+G:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogExperienceDocsScan.resources
+G:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogNationalIdentificationDocScan.resources
+G:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogPersonalPicureSource.resources
+G:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogQualificationDocScan.resources
+G:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmDatabaseSettings.resources
+G:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeeExperiences.resources
+G:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeeOfficialDocuments.resources
+G:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeeQualifications.resources
+G:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmHireEmployee.resources
+G:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmMain.resources
+G:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmScan.resources
+G:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.Properties.Resources.resources
+G:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\Human Resources Management System.csproj.GenerateResource.Cache
+G:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeesAllowancesSecond.resources
+G:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmDeductionsManagementSecond.resources
+G:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmAllowancesManagementFirst.resources
+G:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmDeductionsManagementFirst.resources
+G:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmAllowancesManagementSecond.resources
+G:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeesAllowancesFirst.resources
+I:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\bin\Debug\Human Resources Management System.exe.config
+I:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\Human Resources Management System.exe
+I:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\Human Resources Management System.pdb
+I:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\bin\Debug\Human Resources Management System.exe
+I:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\bin\Debug\Human Resources Management System.pdb
+I:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\ResolveAssemblyReference.cache
+I:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.Adjest.resources
+I:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeesAllowancesSecond.resources
+I:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmDeductionsManagementSecond.resources
+I:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmAllowancesManagementFirst.resources
+I:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmDeductionsManagementFirst.resources
+I:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmPrintDialyworkersSalaries.resources
+I:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmDialyWorkersAllowances.resources
+I:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmAddDialyWorkers.resources
+I:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmDeleteEmployee.resources
+I:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmAllowancesManagementSecond.resources
+I:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEditJobs.resources
+I:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEditDepartment.resources
+I:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEditEmployeeOfficialDocs.resources
+I:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogtSearchedEmpsbyName.resources
+I:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmAddJob.resources
+I:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmAddDepartment.resources
+I:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEditEmployeeFile.resources
+I:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogDrivingLicenceDocScan.resources
+I:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogNationalityDocScan.resources
+I:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogIdentityCardDocScan.resources
+I:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.CustomMessageBox.resources
+I:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogExperienceDocsScan.resources
+I:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogNationalIdentificationDocScan.resources
+I:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogPersonalPicureSource.resources
+I:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogQualificationDocScan.resources
+I:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmDatabaseSettings.resources
+I:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeeExperiences.resources
+I:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeeOfficialDocuments.resources
+I:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeeQualifications.resources
+I:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeesAllowancesFirst.resources
+I:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmHireEmployee.resources
+I:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmMain.resources
+I:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmPrintSalaries.resources
+I:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmScan.resources
+I:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.Properties.Resources.resources
+I:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\Human Resources Management System.csproj.GenerateResource.Cache
+I:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeesDeductionsSecond.resources
+I:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmPrinTemptMonthlyIncentive.resources
+I:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmPrintEmployeesMonthlyIncentive.resources
+I:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeesDeductionsFirst.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\bin\Debug\Human Resources Management System.exe.config
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\Human Resources Management System.exe
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\Human Resources Management System.pdb
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\bin\Debug\Human Resources Management System.exe
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\bin\Debug\Human Resources Management System.pdb
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\ResolveAssemblyReference.cache
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeesDeductionsSecond.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmPrinTemptMonthlyIncentive.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmPrintEmployeesMonthlyIncentive.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeesAllowancesSecond.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmDeductionsManagementSecond.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmAllowancesManagementFirst.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmDeductionsManagementFirst.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmPrintDialyworkersSalaries.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmDialyWorkersAllowances.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmAddDialyWorkers.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmDeleteEmployee.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeesDeductionsFirst.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmAllowancesManagementSecond.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEditJobs.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEditDepartment.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEditEmployeeOfficialDocs.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogtSearchedEmpsbyName.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmAddJob.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmAddDepartment.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEditEmployeeFile.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogDrivingLicenceDocScan.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogNationalityDocScan.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogIdentityCardDocScan.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.CustomMessageBox.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogExperienceDocsScan.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogNationalIdentificationDocScan.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogPersonalPicureSource.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogQualificationDocScan.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmDatabaseSettings.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeeExperiences.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeeOfficialDocuments.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeeQualifications.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeesAllowancesFirst.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmHireEmployee.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmMain.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmScan.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.Properties.Resources.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\Human Resources Management System.csproj.GenerateResource.Cache
+D:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\bin\Debug\Human Resources Management System.exe.config
+D:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\Human Resources Management System.exe
+D:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\Human Resources Management System.pdb
+G:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeesAttendanceSecond.resources
+G:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeesAttendanceFirst.resources
+G:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeesDeductionsSecond.resources
+G:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmPrinTemptMonthlyIncentive.resources
+G:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmPrintEmployeesMonthlyIncentive.resources
+G:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeesDeductionsFirst.resources
+G:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmPrintSalariesFirst.resources
+G:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmDialyworkersAttendance.resources
+D:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\bin\Debug\Human Resources Management System.exe
+D:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\bin\Debug\Human Resources Management System.pdb
+D:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\ResolveAssemblyReference.cache
+D:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.Adjest.resources
+D:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmPrintSalariesSecond.resources
+D:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmDialyworkersAttendance.resources
+D:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeesAttendanceSecond.resources
+D:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeesAttendanceFirst.resources
+D:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeesDeductionsSecond.resources
+D:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmPrinTemptMonthlyIncentive.resources
+D:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmPrintEmployeesMonthlyIncentive.resources
+D:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeesAllowancesSecond.resources
+D:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmDeductionsManagementSecond.resources
+D:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmAllowancesManagementFirst.resources
+D:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmDeductionsManagementFirst.resources
+D:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmPrintDialyworkersSalaries.resources
+D:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmDialyWorkersAllowances.resources
+D:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmAddDialyWorkers.resources
+D:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmDeleteEmployee.resources
+D:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeesDeductionsFirst.resources
+D:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmAllowancesManagementSecond.resources
+D:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEditJobs.resources
+D:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEditDepartment.resources
+D:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEditEmployeeOfficialDocs.resources
+D:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogtSearchedEmpsbyName.resources
+D:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmAddJob.resources
+D:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmAddDepartment.resources
+D:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEditEmployeeFile.resources
+D:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogDrivingLicenceDocScan.resources
+D:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogNationalityDocScan.resources
+D:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogIdentityCardDocScan.resources
+D:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.CustomMessageBox.resources
+D:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogExperienceDocsScan.resources
+D:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogNationalIdentificationDocScan.resources
+D:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogPersonalPicureSource.resources
+D:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogQualificationDocScan.resources
+D:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmDatabaseSettings.resources
+D:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeeExperiences.resources
+D:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeeOfficialDocuments.resources
+D:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeeQualifications.resources
+D:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeesAllowancesFirst.resources
+D:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmHireEmployee.resources
+D:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmMain.resources
+D:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmPrintSalariesFirst.resources
+D:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmScan.resources
+D:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.Properties.Resources.resources
+D:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\Human Resources Management System.csproj.GenerateResource.Cache
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmPrintSalariesSecond.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmDialyworkersAttendance.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeesAttendanceSecond.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeesAttendanceFirst.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmPrintSalariesFirst.resources
+G:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmPrintSalariesSecond.resources
+G:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogPersonalPicureSourceDialy.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogPersonalPicureSourceDialy.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEditDialyWorkersFiles.resources
+G:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEditDialyWorkersFiles.resources
+J:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\bin\Debug\Human Resources Management System.exe.config
+J:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\Human Resources Management System.exe
+J:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\Human Resources Management System.pdb
+J:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\bin\Debug\Human Resources Management System.exe
+J:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\bin\Debug\Human Resources Management System.pdb
+J:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\ResolveAssemblyReference.cache
+J:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.Adjest.resources
+J:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogPersonalPicureSourceDialy.resources
+J:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmPenalty.resources
+J:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEditDialyWorkersFiles.resources
+J:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmPrintSalariesSecond.resources
+J:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmDialyworkersAttendance.resources
+J:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeesAttendanceSecond.resources
+J:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeesAttendanceFirst.resources
+J:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeesDeductionsSecond.resources
+J:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmPrinTemptMonthlyIncentive.resources
+J:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmPrintEmployeesMonthlyIncentive.resources
+J:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeesAllowancesSecond.resources
+J:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmDeductionsManagementSecond.resources
+J:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmAllowancesManagementFirst.resources
+J:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmDeductionsManagementFirst.resources
+J:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmPrintDialyworkersSalaries.resources
+J:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmDialyWorkersAllowances.resources
+J:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmAddDialyWorkers.resources
+J:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmDeleteEmployee.resources
+J:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeesDeductionsFirst.resources
+J:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmAllowancesManagementSecond.resources
+J:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEditJobs.resources
+J:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEditDepartment.resources
+J:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEditEmployeeOfficialDocs.resources
+J:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogtSearchedEmpsbyName.resources
+J:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmAddJob.resources
+J:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmAddDepartment.resources
+J:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEditEmployeeFile.resources
+J:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogDrivingLicenceDocScan.resources
+J:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogNationalityDocScan.resources
+J:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogIdentityCardDocScan.resources
+J:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.CustomMessageBox.resources
+J:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogExperienceDocsScan.resources
+J:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogNationalIdentificationDocScan.resources
+J:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogPersonalPicureSource.resources
+J:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogQualificationDocScan.resources
+J:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmDatabaseSettings.resources
+J:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeeExperiences.resources
+J:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeeOfficialDocuments.resources
+J:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeeQualifications.resources
+J:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeesAllowancesFirst.resources
+J:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmHireEmployee.resources
+J:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmMain.resources
+J:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmPrintSalariesFirst.resources
+J:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmScan.resources
+J:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.Properties.Resources.resources
+J:\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\Human Resources Management System.csproj.GenerateResource.Cache
+D:\Business\Desktop\AbbasherHotel\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\bin\Debug\Human Resources Management System.exe.config
+D:\Business\Desktop\AbbasherHotel\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\Human Resources Management System.exe
+D:\Business\Desktop\AbbasherHotel\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\Human Resources Management System.pdb
+D:\Business\Desktop\AbbasherHotel\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\ResolveAssemblyReference.cache
+D:\Business\Desktop\AbbasherHotel\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogPersonalPicureSourceDialy.resources
+D:\Business\Desktop\AbbasherHotel\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmPenalty.resources
+D:\Business\Desktop\AbbasherHotel\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEditDialyWorkersFiles.resources
+D:\Business\Desktop\AbbasherHotel\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmPrintSalariesSecond.resources
+D:\Business\Desktop\AbbasherHotel\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmDialyworkersAttendance.resources
+D:\Business\Desktop\AbbasherHotel\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeesAttendanceSecond.resources
+D:\Business\Desktop\AbbasherHotel\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeesAttendanceFirst.resources
+D:\Business\Desktop\AbbasherHotel\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeesDeductionsSecond.resources
+D:\Business\Desktop\AbbasherHotel\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmPrinTemptMonthlyIncentive.resources
+D:\Business\Desktop\AbbasherHotel\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmPrintEmployeesMonthlyIncentive.resources
+D:\Business\Desktop\AbbasherHotel\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeesAllowancesSecond.resources
+D:\Business\Desktop\AbbasherHotel\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmDeductionsManagementSecond.resources
+D:\Business\Desktop\AbbasherHotel\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmAllowancesManagementFirst.resources
+D:\Business\Desktop\AbbasherHotel\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmDeductionsManagementFirst.resources
+D:\Business\Desktop\AbbasherHotel\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmPrintDialyworkersSalaries.resources
+D:\Business\Desktop\AbbasherHotel\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmDialyWorkersAllowances.resources
+D:\Business\Desktop\AbbasherHotel\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmAddDialyWorkers.resources
+D:\Business\Desktop\AbbasherHotel\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmDeleteEmployee.resources
+D:\Business\Desktop\AbbasherHotel\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeesDeductionsFirst.resources
+D:\Business\Desktop\AbbasherHotel\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmAllowancesManagementSecond.resources
+D:\Business\Desktop\AbbasherHotel\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEditJobs.resources
+D:\Business\Desktop\AbbasherHotel\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEditDepartment.resources
+D:\Business\Desktop\AbbasherHotel\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEditEmployeeOfficialDocs.resources
+D:\Business\Desktop\AbbasherHotel\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogtSearchedEmpsbyName.resources
+D:\Business\Desktop\AbbasherHotel\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmAddJob.resources
+D:\Business\Desktop\AbbasherHotel\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmAddDepartment.resources
+D:\Business\Desktop\AbbasherHotel\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEditEmployeeFile.resources
+D:\Business\Desktop\AbbasherHotel\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogDrivingLicenceDocScan.resources
+D:\Business\Desktop\AbbasherHotel\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogNationalityDocScan.resources
+D:\Business\Desktop\AbbasherHotel\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogIdentityCardDocScan.resources
+D:\Business\Desktop\AbbasherHotel\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.CustomMessageBox.resources
+D:\Business\Desktop\AbbasherHotel\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogExperienceDocsScan.resources
+D:\Business\Desktop\AbbasherHotel\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogNationalIdentificationDocScan.resources
+D:\Business\Desktop\AbbasherHotel\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogPersonalPicureSource.resources
+D:\Business\Desktop\AbbasherHotel\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogQualificationDocScan.resources
+D:\Business\Desktop\AbbasherHotel\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmDatabaseSettings.resources
+D:\Business\Desktop\AbbasherHotel\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeeExperiences.resources
+D:\Business\Desktop\AbbasherHotel\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeeOfficialDocuments.resources
+D:\Business\Desktop\AbbasherHotel\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeeQualifications.resources
+D:\Business\Desktop\AbbasherHotel\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeesAllowancesFirst.resources
+D:\Business\Desktop\AbbasherHotel\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmHireEmployee.resources
+D:\Business\Desktop\AbbasherHotel\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmMain.resources
+D:\Business\Desktop\AbbasherHotel\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmPrintSalariesFirst.resources
+D:\Business\Desktop\AbbasherHotel\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmScan.resources
+D:\Business\Desktop\AbbasherHotel\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.Properties.Resources.resources
+D:\Business\Desktop\AbbasherHotel\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\Human Resources Management System.csproj.GenerateResource.Cache
+D:\Business\Desktop\AbbasherHotel\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\bin\Debug\Human Resources Management System.exe
+D:\Business\Desktop\AbbasherHotel\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\bin\Debug\Human Resources Management System.pdb
+D:\Business\Desktop\AbbasherHotel\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogSearchedEmpsbyNamePanalties.resources
+D:\Business\Desktop\AbbasherHotel\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEditPenalties.resources
+D:\Business\Desktop\AbbasherHotel\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogPanaltiesSearch.resources
+D:\Business\Desktop\AbbasherHotel\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogEditSearchedEmpsbyNamePanalties.resources
+G:\014\HR_Hotel\Human Resources Management System\bin\Debug\Human Resources Management System.exe.config
+G:\014\HR_Hotel\Human Resources Management System\obj\Debug\Human Resources Management System.exe
+G:\014\HR_Hotel\Human Resources Management System\obj\Debug\Human Resources Management System.pdb
+G:\123\HR_Hotel\Human Resources Management System\bin\Debug\Human Resources Management System.exe.config
+G:\123\HR_Hotel\Human Resources Management System\obj\Debug\Human Resources Management System.exe
+G:\123\HR_Hotel\Human Resources Management System\obj\Debug\Human Resources Management System.pdb
+G:\123\HR_Hotel\Human Resources Management System\bin\Debug\Human Resources Management System.exe
+G:\123\HR_Hotel\Human Resources Management System\bin\Debug\Human Resources Management System.pdb
+G:\123\HR_Hotel\Human Resources Management System\obj\Debug\ResolveAssemblyReference.cache
+G:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogEditSearchedEmpsbyNamePanalties.resources
+G:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogPanaltiesSearch.resources
+G:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEditPenalties.resources
+G:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogSearchedEmpsbyNamePanalties.resources
+G:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogPersonalPicureSourceDialy.resources
+G:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmPenalty.resources
+G:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEditDialyWorkersFiles.resources
+G:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmPrintSalariesSecond.resources
+G:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmDialyworkersAttendance.resources
+G:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeesAttendanceSecond.resources
+G:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeesAttendanceFirst.resources
+G:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeesDeductionsSecond.resources
+G:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmPrinTemptMonthlyIncentive.resources
+G:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmPrintEmployeesMonthlyIncentive.resources
+G:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeesAllowancesSecond.resources
+G:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmDeductionsManagementSecond.resources
+G:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmAllowancesManagementFirst.resources
+G:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmDeductionsManagementFirst.resources
+G:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmPrintDialyworkersSalaries.resources
+G:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmDialyWorkersAllowances.resources
+G:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmAddDialyWorkers.resources
+G:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmDeleteEmployee.resources
+G:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeesDeductionsFirst.resources
+G:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmAllowancesManagementSecond.resources
+G:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEditJobs.resources
+G:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEditDepartment.resources
+G:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEditEmployeeOfficialDocs.resources
+G:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogtSearchedEmpsbyName.resources
+G:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmAddJob.resources
+G:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmAddDepartment.resources
+G:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEditEmployeeFile.resources
+G:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogDrivingLicenceDocScan.resources
+G:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogNationalityDocScan.resources
+G:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogIdentityCardDocScan.resources
+G:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.CustomMessageBox.resources
+G:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogExperienceDocsScan.resources
+G:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogNationalIdentificationDocScan.resources
+G:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogPersonalPicureSource.resources
+G:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogQualificationDocScan.resources
+G:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmDatabaseSettings.resources
+G:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeeExperiences.resources
+G:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeeOfficialDocuments.resources
+G:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeeQualifications.resources
+G:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeesAllowancesFirst.resources
+G:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmHireEmployee.resources
+G:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmMain.resources
+G:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmPrintSalariesFirst.resources
+G:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmScan.resources
+G:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.Properties.Resources.resources
+G:\123\HR_Hotel\Human Resources Management System\obj\Debug\Human Resources Management System.csproj.GenerateResource.Cache
+K:\123\HR_Hotel\Human Resources Management System\bin\Debug\Human Resources Management System.exe.config
+K:\123\HR_Hotel\Human Resources Management System\obj\Debug\Human Resources Management System.exe
+K:\123\HR_Hotel\Human Resources Management System\obj\Debug\Human Resources Management System.pdb
+K:\123\HR_Hotel\Human Resources Management System\bin\Debug\Human Resources Management System.exe
+K:\123\HR_Hotel\Human Resources Management System\bin\Debug\Human Resources Management System.pdb
+K:\123\HR_Hotel\Human Resources Management System\obj\Debug\ResolveAssemblyReference.cache
+K:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogEditSearchedEmpsbyNamePanalties.resources
+K:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogPanaltiesSearch.resources
+K:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEditPenalties.resources
+K:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogSearchedEmpsbyNamePanalties.resources
+K:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogPersonalPicureSourceDialy.resources
+K:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmPenalty.resources
+K:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEditDialyWorkersFiles.resources
+K:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmPrintSalariesSecond.resources
+K:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmDialyworkersAttendance.resources
+K:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeesAttendanceSecond.resources
+K:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeesAttendanceFirst.resources
+K:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeesDeductionsSecond.resources
+K:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmPrinTemptMonthlyIncentive.resources
+K:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmPrintEmployeesMonthlyIncentive.resources
+K:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeesAllowancesSecond.resources
+K:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmDeductionsManagementSecond.resources
+K:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmAllowancesManagementFirst.resources
+K:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmDeductionsManagementFirst.resources
+K:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmPrintDialyworkersSalaries.resources
+K:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmDialyWorkersAllowances.resources
+K:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmAddDialyWorkers.resources
+K:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmDeleteEmployee.resources
+K:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeesDeductionsFirst.resources
+K:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmAllowancesManagementSecond.resources
+K:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEditJobs.resources
+K:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEditDepartment.resources
+K:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEditEmployeeOfficialDocs.resources
+K:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogtSearchedEmpsbyName.resources
+K:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmAddJob.resources
+K:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmAddDepartment.resources
+K:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEditEmployeeFile.resources
+K:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogDrivingLicenceDocScan.resources
+K:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogNationalityDocScan.resources
+K:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogIdentityCardDocScan.resources
+K:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.CustomMessageBox.resources
+K:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogExperienceDocsScan.resources
+K:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogNationalIdentificationDocScan.resources
+K:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogPersonalPicureSource.resources
+K:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogQualificationDocScan.resources
+K:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmDatabaseSettings.resources
+K:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeeExperiences.resources
+K:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeeOfficialDocuments.resources
+K:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeeQualifications.resources
+K:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeesAllowancesFirst.resources
+K:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmHireEmployee.resources
+K:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmMain.resources
+K:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmPrintSalariesFirst.resources
+K:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmScan.resources
+K:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.Properties.Resources.resources
+K:\123\HR_Hotel\Human Resources Management System\obj\Debug\Human Resources Management System.csproj.GenerateResource.Cache
+D:\Business\Desktop\AbbasherHotel\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogEditPanaltyDeduction.resources
+D:\Business\Desktop\AbbasherHotel\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.Adjust.resources
+D:\Business\Desktop\AbbasherHotel\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEditLoans.resources
+D:\Business\Desktop\AbbasherHotel\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogEditLoanDeduction.resources
+D:\Business\Desktop\AbbasherHotel\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogLoansSearch.resources
+D:\Business\Desktop\AbbasherHotel\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmLoans.resources
+D:\Business\Desktop\AbbasherHotel\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogSearchedEmpsbyNameLoans.resources
+D:\Business\Desktop\AbbasherHotel\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogEditSearchedEmpsbyNameLoans.resources
+G:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.Adjust.resources
+G:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogEditSearchedEmpsbyNameLoans.resources
+G:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogSearchedEmpsbyNameLoans.resources
+G:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEditLoans.resources
+G:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogEditLoanDeduction.resources
+G:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogLoansSearch.resources
+G:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmLoans.resources
+G:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogEditPanaltyDeduction.resources
+G:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmMedicalForm.resources
+K:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.Adjust.resources
+K:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogEditSearchedEmpsbyNameLoans.resources
+K:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogSearchedEmpsbyNameLoans.resources
+K:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEditLoans.resources
+K:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogEditLoanDeduction.resources
+K:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogLoansSearch.resources
+K:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmLoans.resources
+K:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogEditPanaltyDeduction.resources
+K:\123\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmMedicalForm.resources
+D:\Business\Desktop\AbbasherHotel\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmMedicalForm.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.Adjust.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEditMedicalForm.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogSearchedEmpsbyNameMedicalForms.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogEditSearchedEmpsbyNameLoans.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogSearchedEmpsbyNameLoans.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEditLoans.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogEditLoanDeduction.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogLoansSearch.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmLoans.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogEditPanaltyDeduction.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogEditSearchedEmpsbyNamePanalties.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogPanaltiesSearch.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEditPenalties.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogSearchedEmpsbyNamePanalties.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmMedicalForm.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmPenalty.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogMedicalFormsSearch.resources
+D:\Business\Desktop\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmDeleteDialyWorker.resources
+G:\014\HR_Hotel\Human Resources Management System\bin\Debug\Human Resources Management System.exe
+G:\014\HR_Hotel\Human Resources Management System\bin\Debug\Human Resources Management System.pdb
+G:\014\HR_Hotel\Human Resources Management System\obj\Debug\ResolveAssemblyReference.cache
+G:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.Adjust.resources
+G:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogMedicalFormsSearch.resources
+G:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmDeleteDialyWorker.resources
+G:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEditMedicalForm.resources
+G:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogSearchedEmpsbyNameMedicalForms.resources
+G:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogEditSearchedEmpsbyNameLoans.resources
+G:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogSearchedEmpsbyNameLoans.resources
+G:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEditLoans.resources
+G:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogEditLoanDeduction.resources
+G:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogLoansSearch.resources
+G:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmLoans.resources
+G:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogEditPanaltyDeduction.resources
+G:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogEditSearchedEmpsbyNamePanalties.resources
+G:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogPanaltiesSearch.resources
+G:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEditPenalties.resources
+G:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogSearchedEmpsbyNamePanalties.resources
+G:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogPersonalPicureSourceDialy.resources
+G:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmPenalty.resources
+G:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEditDialyWorkersFiles.resources
+G:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmPrintSalariesSecond.resources
+G:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmDialyworkersAttendance.resources
+G:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeesAttendanceSecond.resources
+G:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeesAttendanceFirst.resources
+G:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeesDeductionsSecond.resources
+G:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmPrintEmployeesMonthlyIncentive.resources
+G:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeesAllowancesSecond.resources
+G:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmDeductionsManagementSecond.resources
+G:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmAllowancesManagementFirst.resources
+G:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmDeductionsManagementFirst.resources
+G:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmPrintDialyworkersSalaries.resources
+G:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmDialyWorkersAllowances.resources
+G:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmAddDialyWorkers.resources
+G:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmDeleteEmployee.resources
+G:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeesDeductionsFirst.resources
+G:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmAllowancesManagementSecond.resources
+G:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEditJobs.resources
+G:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEditDepartment.resources
+G:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEditEmployeeOfficialDocs.resources
+G:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogtSearchedEmpsbyName.resources
+G:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmAddJob.resources
+G:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmAddDepartment.resources
+G:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEditEmployeeFile.resources
+G:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogDrivingLicenceDocScan.resources
+G:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogNationalityDocScan.resources
+G:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogIdentityCardDocScan.resources
+G:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.CustomMessageBox.resources
+G:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogExperienceDocsScan.resources
+G:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogNationalIdentificationDocScan.resources
+G:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogPersonalPicureSource.resources
+G:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogQualificationDocScan.resources
+G:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmDatabaseSettings.resources
+G:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeeExperiences.resources
+G:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeeOfficialDocuments.resources
+G:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeeQualifications.resources
+G:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeesAllowancesFirst.resources
+G:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmHireEmployee.resources
+G:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmMain.resources
+G:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmPrintSalariesFirst.resources
+G:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmScan.resources
+G:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.Properties.Resources.resources
+G:\014\HR_Hotel\Human Resources Management System\obj\Debug\Human Resources Management System.csproj.GenerateResource.Cache
+K:\014\HR_Hotel\Human Resources Management System\bin\Debug\Human Resources Management System.exe.config
+K:\014\HR_Hotel\Human Resources Management System\obj\Debug\Human Resources Management System.exe
+K:\014\HR_Hotel\Human Resources Management System\obj\Debug\Human Resources Management System.pdb
+K:\014\HR_Hotel\Human Resources Management System\bin\Debug\Human Resources Management System.exe
+K:\014\HR_Hotel\Human Resources Management System\bin\Debug\Human Resources Management System.pdb
+K:\014\HR_Hotel\Human Resources Management System\obj\Debug\ResolveAssemblyReference.cache
+K:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.Adjust.resources
+K:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogMedicalFormsSearch.resources
+K:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmAddVacation.resources
+K:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmDeleteDialyWorker.resources
+K:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEditMedicalForm.resources
+K:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogSearchedEmpsbyNameMedicalForms.resources
+K:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogEditSearchedEmpsbyNameLoans.resources
+K:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogSearchedEmpsbyNameLoans.resources
+K:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEditLoans.resources
+K:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogEditLoanDeduction.resources
+K:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogLoansSearch.resources
+K:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmLoans.resources
+K:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogEditPanaltyDeduction.resources
+K:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogEditSearchedEmpsbyNamePanalties.resources
+K:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogPanaltiesSearch.resources
+K:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEditPenalties.resources
+K:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogSearchedEmpsbyNamePanalties.resources
+K:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogPersonalPicureSourceDialy.resources
+K:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmMedicalForm.resources
+K:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmPenalty.resources
+K:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEditDialyWorkersFiles.resources
+K:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmPrintSalariesSecond.resources
+K:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmDialyworkersAttendance.resources
+K:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeesAttendanceSecond.resources
+K:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeesAttendanceFirst.resources
+K:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeesDeductionsSecond.resources
+K:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmPrinTemptMonthlyIncentive.resources
+K:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmPrintEmployeesMonthlyIncentive.resources
+K:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeesAllowancesSecond.resources
+K:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmDeductionsManagementSecond.resources
+K:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmAllowancesManagementFirst.resources
+K:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmDeductionsManagementFirst.resources
+K:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmPrintDialyworkersSalaries.resources
+K:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmDialyWorkersAllowances.resources
+K:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmAddDialyWorkers.resources
+K:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmDeleteEmployee.resources
+K:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeesDeductionsFirst.resources
+K:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmAllowancesManagementSecond.resources
+K:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEditJobs.resources
+K:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEditDepartment.resources
+K:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEditEmployeeOfficialDocs.resources
+K:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogtSearchedEmpsbyName.resources
+K:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmAddJob.resources
+K:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmAddDepartment.resources
+K:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEditEmployeeFile.resources
+K:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogDrivingLicenceDocScan.resources
+K:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogNationalityDocScan.resources
+K:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogIdentityCardDocScan.resources
+K:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.CustomMessageBox.resources
+K:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogExperienceDocsScan.resources
+K:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogNationalIdentificationDocScan.resources
+K:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogPersonalPicureSource.resources
+K:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogQualificationDocScan.resources
+K:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmDatabaseSettings.resources
+K:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeeExperiences.resources
+K:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeeOfficialDocuments.resources
+K:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeeQualifications.resources
+K:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeesAllowancesFirst.resources
+K:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmHireEmployee.resources
+K:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmMain.resources
+K:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmPrintSalariesFirst.resources
+K:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmScan.resources
+K:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.Properties.Resources.resources
+K:\014\HR_Hotel\Human Resources Management System\obj\Debug\Human Resources Management System.csproj.GenerateResource.Cache
+D:\Business\Desktop\AbbasherHotel\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogMedicalFormsSearch.resources
+D:\Business\Desktop\AbbasherHotel\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmAddVacation.resources
+D:\Business\Desktop\AbbasherHotel\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmDeleteDialyWorker.resources
+D:\Business\Desktop\AbbasherHotel\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEditMedicalForm.resources
+D:\Business\Desktop\AbbasherHotel\AbbasherHotel\Human Resources Management System\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogSearchedEmpsbyNameMedicalForms.resources
+G:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmPrinEmployeesWorkIncentive.resources
+G:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmAddVacation.resources
+G:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmAddMedicalForm.resources
+G:\014\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmPrintTempMonthlyIncentive.resources
+E:\Resources\HR_Hotel\Human Resources Management System\bin\Debug\Human Resources Management System.exe.config
+E:\Resources\HR_Hotel\Human Resources Management System\obj\Debug\Human Resources Management System.exe
+E:\Resources\HR_Hotel\Human Resources Management System\obj\Debug\Human Resources Management System.pdb
+E:\Resources\HR_Hotel\Human Resources Management System\bin\Debug\Human Resources Management System.exe
+E:\Resources\HR_Hotel\Human Resources Management System\bin\Debug\Human Resources Management System.pdb
+E:\Resources\HR_Hotel\Human Resources Management System\obj\Debug\ResolveAssemblyReference.cache
+E:\Resources\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.Adjust.resources
+E:\Resources\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmPrinEmployeesWorkIncentive.resources
+E:\Resources\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogMedicalFormsSearch.resources
+E:\Resources\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmAddVacation.resources
+E:\Resources\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmDeleteDialyWorker.resources
+E:\Resources\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEditMedicalForm.resources
+E:\Resources\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogSearchedEmpsbyNameMedicalForms.resources
+E:\Resources\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogEditSearchedEmpsbyNameLoans.resources
+E:\Resources\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogSearchedEmpsbyNameLoans.resources
+E:\Resources\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEditLoans.resources
+E:\Resources\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogEditLoanDeduction.resources
+E:\Resources\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogLoansSearch.resources
+E:\Resources\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmLoans.resources
+E:\Resources\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogEditPanaltyDeduction.resources
+E:\Resources\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogEditSearchedEmpsbyNamePanalties.resources
+E:\Resources\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogPanaltiesSearch.resources
+E:\Resources\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEditPenalties.resources
+E:\Resources\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogSearchedEmpsbyNamePanalties.resources
+E:\Resources\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogPersonalPicureSourceDialy.resources
+E:\Resources\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmAddMedicalForm.resources
+E:\Resources\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmPenalty.resources
+E:\Resources\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEditDialyWorkersFiles.resources
+E:\Resources\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmPrintSalariesSecond.resources
+E:\Resources\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmDialyworkersAttendance.resources
+E:\Resources\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeesAttendanceSecond.resources
+E:\Resources\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeesAttendanceFirst.resources
+E:\Resources\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeesDeductionsSecond.resources
+E:\Resources\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmPrintTempMonthlyIncentive.resources
+E:\Resources\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmPrintEmployeesMonthlyIncentive.resources
+E:\Resources\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeesAllowancesSecond.resources
+E:\Resources\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmDeductionsManagementSecond.resources
+E:\Resources\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmAllowancesManagementFirst.resources
+E:\Resources\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmDeductionsManagementFirst.resources
+E:\Resources\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmPrintDialyworkersSalaries.resources
+E:\Resources\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmDialyWorkersAllowances.resources
+E:\Resources\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmAddDialyWorkers.resources
+E:\Resources\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmDeleteEmployee.resources
+E:\Resources\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeesDeductionsFirst.resources
+E:\Resources\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmAllowancesManagementSecond.resources
+E:\Resources\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEditJobs.resources
+E:\Resources\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEditDepartment.resources
+E:\Resources\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEditEmployeeOfficialDocs.resources
+E:\Resources\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogtSearchedEmpsbyName.resources
+E:\Resources\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmAddJob.resources
+E:\Resources\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmAddDepartment.resources
+E:\Resources\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEditEmployeeFile.resources
+E:\Resources\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogDrivingLicenceDocScan.resources
+E:\Resources\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogNationalityDocScan.resources
+E:\Resources\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogIdentityCardDocScan.resources
+E:\Resources\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.CustomMessageBox.resources
+E:\Resources\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogExperienceDocsScan.resources
+E:\Resources\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogNationalIdentificationDocScan.resources
+E:\Resources\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogPersonalPicureSource.resources
+E:\Resources\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.DialogQualificationDocScan.resources
+E:\Resources\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmDatabaseSettings.resources
+E:\Resources\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeeExperiences.resources
+E:\Resources\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeeOfficialDocuments.resources
+E:\Resources\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeeQualifications.resources
+E:\Resources\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmEmployeesAllowancesFirst.resources
+E:\Resources\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmHireEmployee.resources
+E:\Resources\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmMain.resources
+E:\Resources\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmPrintSalariesFirst.resources
+E:\Resources\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.frmScan.resources
+E:\Resources\HR_Hotel\Human Resources Management System\obj\Debug\HR_MS.Properties.Resources.resources
+E:\Resources\HR_Hotel\Human Resources Management System\obj\Debug\Human Resources Management System.csproj.GenerateResource.Cache

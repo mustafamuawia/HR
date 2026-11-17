@@ -1,0 +1,777 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A7F59B41-9674-4930-8712-EE06CEE3FBA1}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>HR_MS</RootNamespace>
+    <AssemblyName>Human Resources Management System</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>http://localhost/Human Resources Management System/</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Web</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>true</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <ApplicationIcon>Resources\HR.ico</ApplicationIcon>
+    <StartupObject>HR_MS.Program</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bytescout.Scan, Version=1.0.0.12, Culture=neutral, PublicKeyToken=f7dd1bd9d40a50eb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Bytescout.Scan.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.ConnectionInfo, Version=10.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.SqlServer.ConnectionInfoExtended, Version=10.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.SqlServer.Management.Sdk.Sfc, Version=10.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.SqlServer.Smo, Version=10.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.SqlServer.SqlWmiManagement, Version=10.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.Entity">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.SqlServerCe, Version=3.5.1.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="System.Runtime.Serialization">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Security" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmPrinEmployeesWorkIncentive.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrinEmployeesWorkIncentive.Designer.cs">
+      <DependentUpon>frmPrinEmployeesWorkIncentive.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\DialogMedicalFormsSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\DialogMedicalFormsSearch.Designer.cs">
+      <DependentUpon>DialogMedicalFormsSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddVacation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddVacation.Designer.cs">
+      <DependentUpon>frmAddVacation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDeleteDialyWorker.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDeleteDialyWorker.Designer.cs">
+      <DependentUpon>frmDeleteDialyWorker.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEditMedicalForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEditMedicalForm.Designer.cs">
+      <DependentUpon>frmEditMedicalForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\DialogSearchedEmpsbyNameMedicalForms.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\DialogSearchedEmpsbyNameMedicalForms.Designer.cs">
+      <DependentUpon>DialogSearchedEmpsbyNameMedicalForms.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\DialogEditSearchedEmpsbyNameLoans.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\DialogEditSearchedEmpsbyNameLoans.Designer.cs">
+      <DependentUpon>DialogEditSearchedEmpsbyNameLoans.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\DialogSearchedEmpsbyNameLoans.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\DialogSearchedEmpsbyNameLoans.Designer.cs">
+      <DependentUpon>DialogSearchedEmpsbyNameLoans.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEditLoans.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEditLoans.Designer.cs">
+      <DependentUpon>frmEditLoans.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\DialogEditLoanDeduction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\DialogEditLoanDeduction.Designer.cs">
+      <DependentUpon>DialogEditLoanDeduction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\DialogLoansSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\DialogLoansSearch.Designer.cs">
+      <DependentUpon>DialogLoansSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLoans.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLoans.Designer.cs">
+      <DependentUpon>frmLoans.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\DialogEditSearchedEmpsbyNamePanalties.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\DialogEditSearchedEmpsbyNamePanalties.Designer.cs">
+      <DependentUpon>DialogEditSearchedEmpsbyNamePanalties.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\DialogPanaltiesSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\DialogPanaltiesSearch.Designer.cs">
+      <DependentUpon>DialogPanaltiesSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\DialogEditPanaltyDeduction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\DialogEditPanaltyDeduction.Designer.cs">
+      <DependentUpon>DialogEditPanaltyDeduction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEditPenalties.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEditPenalties.Designer.cs">
+      <DependentUpon>frmEditPenalties.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\DialogSearchedEmpsbyNamePanalties.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\DialogSearchedEmpsbyNamePanalties.Designer.cs">
+      <DependentUpon>DialogSearchedEmpsbyNamePanalties.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\DialogPersonalPicureSourceDialy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\DialogPersonalPicureSourceDialy.Designer.cs">
+      <DependentUpon>DialogPersonalPicureSourceDialy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\DialogtSearchedDialysbyName.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\DialogtSearchedDialysbyName.Designer.cs">
+      <DependentUpon>DialogtSearchedDialysbyName.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddMedicalForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddMedicalForm.Designer.cs">
+      <DependentUpon>frmAddMedicalForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPenalty.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPenalty.Designer.cs">
+      <DependentUpon>frmPenalty.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEditDialyWorkersFiles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEditDialyWorkersFiles.Designer.cs">
+      <DependentUpon>frmEditDialyWorkersFiles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPrintSalariesSecond.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrintSalariesSecond.Designer.cs">
+      <DependentUpon>frmPrintSalariesSecond.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDialyworkersAttendance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDialyworkersAttendance.Designer.cs">
+      <DependentUpon>frmDialyworkersAttendance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEmployeesAttendanceSecond.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEmployeesAttendanceSecond.Designer.cs">
+      <DependentUpon>frmEmployeesAttendanceSecond.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEmployeesAttendanceFirst.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEmployeesAttendanceFirst.Designer.cs">
+      <DependentUpon>frmEmployeesAttendanceFirst.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEmployeesDeductionsSecond.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEmployeesDeductionsSecond.designer.cs">
+      <DependentUpon>frmEmployeesDeductionsSecond.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeesMonthlyIncentive.cs" />
+    <Compile Include="frmPrinTemptMonthlyIncentive.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrinTemptMonthlyIncentive.Designer.cs">
+      <DependentUpon>frmPrinTemptMonthlyIncentive.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPrinEmployeesMonthlyIncentive.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrinEmployeesMonthlyIncentive.Designer.cs">
+      <DependentUpon>frmPrinEmployeesMonthlyIncentive.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEmployeesAllowancesSecond.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEmployeesAllowancesSecond.designer.cs">
+      <DependentUpon>frmEmployeesAllowancesSecond.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDeductionsManagementSecond.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDeductionsManagementSecond.designer.cs">
+      <DependentUpon>frmDeductionsManagementSecond.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAllowancesManagementFirst.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAllowancesManagementFirst.Designer.cs">
+      <DependentUpon>frmAllowancesManagementFirst.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DialyWorkersSalarySummary.cs" />
+    <Compile Include="frmPrintDialyworkersSalaries.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrintDialyworkersSalaries.Designer.cs">
+      <DependentUpon>frmPrintDialyworkersSalaries.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDialyWorkersAllowances.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDialyWorkersAllowances.designer.cs">
+      <DependentUpon>frmDialyWorkersAllowances.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddDialyWorkers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddDialyWorkers.Designer.cs">
+      <DependentUpon>frmAddDialyWorkers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDeleteEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDeleteEmployee.Designer.cs">
+      <DependentUpon>frmDeleteEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEmployeesDeductionsFirst.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEmployeesDeductionsFirst.designer.cs">
+      <DependentUpon>frmEmployeesDeductionsFirst.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAllowancesManagementSecond.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAllowancesManagementSecond.Designer.cs">
+      <DependentUpon>frmAllowancesManagementSecond.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDeductionsManagementFirst.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDeductionsManagementFirst.designer.cs">
+      <DependentUpon>frmDeductionsManagementFirst.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEditJobs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEditJobs.Designer.cs">
+      <DependentUpon>frmEditJobs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEditDepartment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEditDepartment.Designer.cs">
+      <DependentUpon>frmEditDepartment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEditEmployeeOfficialDocs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEditEmployeeOfficialDocs.designer.cs">
+      <DependentUpon>frmEditEmployeeOfficialDocs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmpName_Dept_Job.cs" />
+    <Compile Include="frmAddJob.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddJob.Designer.cs">
+      <DependentUpon>frmAddJob.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddDepartment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddDepartment.Designer.cs">
+      <DependentUpon>frmAddDepartment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEditEmployeeFile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEditEmployeeFile.Designer.cs">
+      <DependentUpon>frmEditEmployeeFile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\DialogDrivingLicenceDocScan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\DialogDrivingLicenceDocScan.Designer.cs">
+      <DependentUpon>DialogDrivingLicenceDocScan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\DialogNationalityDocScan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\DialogNationalityDocScan.Designer.cs">
+      <DependentUpon>DialogNationalityDocScan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\DialogIdentityCardDocScan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\DialogIdentityCardDocScan.Designer.cs">
+      <DependentUpon>DialogIdentityCardDocScan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\DialogExperienceDocsScan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\DialogExperienceDocsScan.Designer.cs">
+      <DependentUpon>DialogExperienceDocsScan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\DialogNationalIdentificationDocScan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\DialogNationalIdentificationDocScan.Designer.cs">
+      <DependentUpon>DialogNationalIdentificationDocScan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\DialogQualificationDocScan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\DialogQualificationDocScan.Designer.cs">
+      <DependentUpon>DialogQualificationDocScan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEmployeeExperiences.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEmployeeExperiences.designer.cs">
+      <DependentUpon>frmEmployeeExperiences.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEmployeeOfficialDocuments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEmployeeOfficialDocuments.designer.cs">
+      <DependentUpon>frmEmployeeOfficialDocuments.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEmployeesAllowancesFirst.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEmployeesAllowancesFirst.designer.cs">
+      <DependentUpon>frmEmployeesAllowancesFirst.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmHireEmployee.Designer.cs">
+      <DependentUpon>frmHireEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomMessageBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomMessageBox.Designer.cs">
+      <DependentUpon>CustomMessageBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Adjust.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Adjust.Designer.cs">
+      <DependentUpon>Adjust.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\DialogDeleteJob.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\DialogDeleteJob.Designer.cs">
+      <DependentUpon>DialogDeleteJob.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\DialogtSearchedEmpsbyName.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\DialogtSearchedEmpsbyName.Designer.cs">
+      <DependentUpon>DialogtSearchedEmpsbyName.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\DialogPersonalPicureSource.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\DialogPersonalPicureSource.Designer.cs">
+      <DependentUpon>DialogPersonalPicureSource.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDatabaseSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDatabaseSettings.Designer.cs">
+      <DependentUpon>frmDatabaseSettings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEmployeeQualifications.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEmployeeQualifications.Designer.cs">
+      <DependentUpon>frmEmployeeQualifications.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmHireEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPrintSalariesFirst.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrintSalariesFirst.Designer.cs">
+      <DependentUpon>frmPrintSalariesFirst.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmScan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmScan.Designer.cs">
+      <DependentUpon>frmScan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListOnAddEvent.cs" />
+    <Compile Include="ListTwoColumns.cs" />
+    <Compile Include="MyCotainers.cs" />
+    <Compile Include="OfficialDocuments.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Adjust.resx">
+      <DependentUpon>Adjust.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrinEmployeesWorkIncentive.resx">
+      <DependentUpon>frmPrinEmployeesWorkIncentive.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\DialogMedicalFormsSearch.resx">
+      <DependentUpon>DialogMedicalFormsSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddVacation.resx">
+      <DependentUpon>frmAddVacation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDeleteDialyWorker.resx">
+      <DependentUpon>frmDeleteDialyWorker.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEditMedicalForm.resx">
+      <DependentUpon>frmEditMedicalForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\DialogSearchedEmpsbyNameMedicalForms.resx">
+      <DependentUpon>DialogSearchedEmpsbyNameMedicalForms.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\DialogEditSearchedEmpsbyNameLoans.resx">
+      <DependentUpon>DialogEditSearchedEmpsbyNameLoans.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\DialogSearchedEmpsbyNameLoans.resx">
+      <DependentUpon>DialogSearchedEmpsbyNameLoans.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEditLoans.resx">
+      <DependentUpon>frmEditLoans.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\DialogEditLoanDeduction.resx">
+      <DependentUpon>DialogEditLoanDeduction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\DialogLoansSearch.resx">
+      <DependentUpon>DialogLoansSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLoans.resx">
+      <DependentUpon>frmLoans.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\DialogEditPanaltyDeduction.resx">
+      <DependentUpon>DialogEditPanaltyDeduction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\DialogEditSearchedEmpsbyNamePanalties.resx">
+      <DependentUpon>DialogEditSearchedEmpsbyNamePanalties.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\DialogPanaltiesSearch.resx">
+      <DependentUpon>DialogPanaltiesSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEditPenalties.resx">
+      <DependentUpon>frmEditPenalties.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\DialogSearchedEmpsbyNamePanalties.resx">
+      <DependentUpon>DialogSearchedEmpsbyNamePanalties.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\DialogPersonalPicureSourceDialy.resx">
+      <DependentUpon>DialogPersonalPicureSourceDialy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddMedicalForm.resx">
+      <DependentUpon>frmAddMedicalForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPenalty.resx">
+      <DependentUpon>frmPenalty.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEditDialyWorkersFiles.resx">
+      <DependentUpon>frmEditDialyWorkersFiles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrintSalariesSecond.resx">
+      <DependentUpon>frmPrintSalariesSecond.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDialyworkersAttendance.resx">
+      <DependentUpon>frmDialyworkersAttendance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEmployeesAttendanceSecond.resx">
+      <DependentUpon>frmEmployeesAttendanceSecond.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEmployeesAttendanceFirst.resx">
+      <DependentUpon>frmEmployeesAttendanceFirst.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEmployeesDeductionsSecond.resx">
+      <DependentUpon>frmEmployeesDeductionsSecond.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrinTemptMonthlyIncentive.resx">
+      <DependentUpon>frmPrinTemptMonthlyIncentive.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrinEmployeesMonthlyIncentive.resx">
+      <DependentUpon>frmPrinEmployeesMonthlyIncentive.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEmployeesAllowancesSecond.resx">
+      <DependentUpon>frmEmployeesAllowancesSecond.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDeductionsManagementSecond.resx">
+      <DependentUpon>frmDeductionsManagementSecond.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAllowancesManagementFirst.resx">
+      <DependentUpon>frmAllowancesManagementFirst.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDeductionsManagementFirst.resx">
+      <DependentUpon>frmDeductionsManagementFirst.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrintDialyworkersSalaries.resx">
+      <DependentUpon>frmPrintDialyworkersSalaries.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDialyWorkersAllowances.resx">
+      <DependentUpon>frmDialyWorkersAllowances.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddDialyWorkers.resx">
+      <DependentUpon>frmAddDialyWorkers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDeleteEmployee.resx">
+      <DependentUpon>frmDeleteEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEmployeesDeductionsFirst.resx">
+      <DependentUpon>frmEmployeesDeductionsFirst.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAllowancesManagementSecond.resx">
+      <DependentUpon>frmAllowancesManagementSecond.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEditJobs.resx">
+      <DependentUpon>frmEditJobs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEditDepartment.resx">
+      <DependentUpon>frmEditDepartment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEditEmployeeOfficialDocs.resx">
+      <DependentUpon>frmEditEmployeeOfficialDocs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\DialogtSearchedEmpsbyName.resx">
+      <DependentUpon>DialogtSearchedEmpsbyName.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddJob.resx">
+      <DependentUpon>frmAddJob.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddDepartment.resx">
+      <DependentUpon>frmAddDepartment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEditEmployeeFile.resx">
+      <DependentUpon>frmEditEmployeeFile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\DialogDrivingLicenceDocScan.resx">
+      <DependentUpon>DialogDrivingLicenceDocScan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\DialogNationalityDocScan.resx">
+      <DependentUpon>DialogNationalityDocScan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\DialogIdentityCardDocScan.resx">
+      <DependentUpon>DialogIdentityCardDocScan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomMessageBox.resx">
+      <DependentUpon>CustomMessageBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\DialogExperienceDocsScan.resx">
+      <DependentUpon>DialogExperienceDocsScan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\DialogNationalIdentificationDocScan.resx">
+      <DependentUpon>DialogNationalIdentificationDocScan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\DialogPersonalPicureSource.resx">
+      <DependentUpon>DialogPersonalPicureSource.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\DialogQualificationDocScan.resx">
+      <DependentUpon>DialogQualificationDocScan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDatabaseSettings.resx">
+      <DependentUpon>frmDatabaseSettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEmployeeExperiences.resx">
+      <DependentUpon>frmEmployeeExperiences.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEmployeeOfficialDocuments.resx">
+      <DependentUpon>frmEmployeeOfficialDocuments.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEmployeeQualifications.resx">
+      <DependentUpon>frmEmployeeQualifications.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEmployeesAllowancesFirst.resx">
+      <DependentUpon>frmEmployeesAllowancesFirst.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHireEmployee.resx">
+      <DependentUpon>frmHireEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrintSalariesFirst.resx">
+      <DependentUpon>frmPrintSalariesFirst.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmScan.resx">
+      <DependentUpon>frmScan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>PublicSettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="SalarySummary.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Picture.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.SQL.Server.Compact.3.5">
+      <Visible>False</Visible>
+      <ProductName>SQL Server Compact 3.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Certificate.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\RolledCertificate.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Expeirince.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Education.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\document.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sudan.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IDCardBack.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IDCardFace.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\passport.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HR.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HR.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
